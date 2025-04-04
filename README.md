@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a Cognitive Wireless Communication System.
-- 🌱 I’m currently learning Computer Vision.
+- 🌱 I’m currently learning anything and evrything about wireless communication and computer vision.
 - 👯 I’m looking to collaborate on wireless-communication projects.
 - 🤔 I’m looking for help with integrating deep learning into my wireless communication project.
 - 💬 Ask me about anything wireless.
